@@ -1,65 +1,86 @@
-# 👋 Hi, I'm Fabio
+<div align="center">
 
-I’m a computer science student and tech enthusiast with a strong focus on  
-**software engineering, quantitative finance, and systems infrastructure**.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:10b981&height=130&section=header&text=Fafoooo&fontSize=40&fontColor=ffffff&fontAlignY=50" width="100%" alt="Header" />
 
----
+<h3>Quantitative finance, systems engineering &amp; building tools that work.</h3>
 
-## 🚀 What I work on
-
-- 📊 **Finance & Trading**
-  - Quantitative analysis of equities, ETFs, and derivatives
-  - Options trading with a focus on risk, volatility, and payoff structures
-  - Market microstructure: liquidity, volume, order flow, and dealer positioning
-  - Analysis of macroeconomic and market indicators and their market impact
-  - Development of custom tools for portfolio tracking, PnL analysis, and market data exploration
-
-- 💻 **Software Development**
-  - C++ for performance-critical systems, simulations, and financial tooling
-  - Python for data analysis, automation, backtesting, and rapid prototyping
-  - Java for university projects and solidifying core programming concepts
-  - Version control with Git, structured workflows, and clean project organization
-  - Linux-based development environments, containerization with Docker, and basic CI/CD pipelines
-
-- 🧠 **Data & Analytics**
-  - Working with structured and unstructured financial datasets
-  - Time series analysis, statistical evaluation, and data validation
-  - Indicator construction and data aggregation from multiple sources
-  - Preference for classical algorithms and transparent models
-  - Selective use of machine learning where it provides real, measurable value
-
-- 🖥️ **Infrastructure & Homelab**
-  - Virtualized environments using Proxmox for development and services
-  - Self-hosting applications, databases, and internal tools
-  - Networking fundamentals, segmentation, and performance considerations
-  - Storage setups, backups, monitoring, and system reliability
-
-
-## 🛠️ Tech Stack (high-level)
-
-- **Languages:** C++, Python, Java, SQL  
-- **Systems:** Linux, Docker, Proxmox  
-- **Domains:** Finance, trading systems, data analysis, backend tooling  
+</div>
 
 ---
 
-## 📌 Philosophy
+<img align="right" width="40%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Fafoooo&layout=compact&bg_color=0d1117&border_color=30363d&title_color=10b981&text_color=a1a1aa&langs_count=8&count_private=true&hide=html,css" />
 
-- Prefer **understanding over black boxes**
-- Build tools instead of spreadsheets
-- Automation > manual work
-- Simple solutions beat fancy ones
+### `$ whoami`
+
+```yaml
+handle:   Fafoooo
+study:    Computer Science
+status:   Building & Learning
+```
+
+CS student focused on quantitative finance, performance-critical
+systems, and infrastructure. I build trading tools, data pipelines,
+automation, and self-hosted environments.
+
+**Currently focused on:**
+- Quantitative analysis & trading systems
+- C++ for performance-critical applications
+- Self-hosted infrastructure with Proxmox
+
+<br clear="right"/>
 
 ---
 
-## 📈 What you’ll find here
+### `$ ls ./tech-stack`
 
-- University projects  
-- Experiments with financial data  
-- Infrastructure & tooling projects  
-- Small utilities that solve real problems  
+<div align="center">
+
+**Languages**
+
+![C++](https://img.shields.io/badge/C++-0d1117?style=flat-square&logo=cplusplus&logoColor=00599C)
+![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3776ab)
+![Java](https://img.shields.io/badge/Java-0d1117?style=flat-square&logo=openjdk&logoColor=ed8b00)
+![SQL](https://img.shields.io/badge/SQL-0d1117?style=flat-square&logo=postgresql&logoColor=4169e1)
+
+**Data & Finance**
+
+![Pandas](https://img.shields.io/badge/Pandas-0d1117?style=flat-square&logo=pandas&logoColor=150458)
+![NumPy](https://img.shields.io/badge/NumPy-0d1117?style=flat-square&logo=numpy&logoColor=013243)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-0d1117?style=flat-square&logo=python&logoColor=a1a1aa)
+![Jupyter](https://img.shields.io/badge/Jupyter-0d1117?style=flat-square&logo=jupyter&logoColor=f37626)
+
+**Infrastructure & Tools**
+
+![Linux](https://img.shields.io/badge/Linux-0d1117?style=flat-square&logo=linux&logoColor=fcc624)
+![Docker](https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=2496ed)
+![Proxmox](https://img.shields.io/badge/Proxmox-0d1117?style=flat-square&logo=proxmox&logoColor=e57000)
+![Git](https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=f05032)
+
+</div>
 
 ---
 
-Feel free to explore the repositories 👀  
-Clean code, reproducible setups, and clear intent matter to me.
+### `$ cat ./stats.json`
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Fafoooo&show_icons=true&bg_color=0d1117&border_color=30363d&title_color=10b981&icon_color=10b981&text_color=a1a1aa&ring_color=10b981&include_all_commits=true&count_private=true&rank_icon=github&hide_border=false" />
+&nbsp;&nbsp;
+<img height="170" src="https://streak-stats.demolab.com/?user=Fafoooo&theme=github-dark-blue&background=0d1117&border=30363d&stroke=30363d&ring=10b981&fire=10b981&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=10b981&sideLabels=a1a1aa&dates=a1a1aa" />
+
+</div>
+
+---
+
+### `$ ls ./projects`
+
+<!--START_SECTION:projects-->
+<!--END_SECTION:projects-->
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:10b981,100:0d1117&height=80&section=footer" width="100%" alt="Footer" />
+
+</div>
