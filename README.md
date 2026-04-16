@@ -77,14 +77,14 @@ automation, and self-hosted environments.
 <!--START_SECTION:projects-->
 <p align="center">
   <a href="https://github.com/Fafoooo/aau_26S_Linear_Algebra"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Fafoooo&repo=aau_26S_Linear_Algebra&bg_color=0d1117&border_color=30363d&title_color=10b981&icon_color=10b981&text_color=a1a1aa" /></a>
-  <a href="https://github.com/Fafoooo/claude-solve-and-explain"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Fafoooo&repo=claude-solve-and-explain&bg_color=0d1117&border_color=30363d&title_color=10b981&icon_color=10b981&text_color=a1a1aa" /></a>
-</p>
-<p align="center">
-  <a href="https://github.com/Fafoooo/aau_26S_Betriebssysteme"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Fafoooo&repo=aau_26S_Betriebssysteme&bg_color=0d1117&border_color=30363d&title_color=10b981&icon_color=10b981&text_color=a1a1aa" /></a>
-  <a href="https://github.com/Fafoooo/aau_26S_Logik"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Fafoooo&repo=aau_26S_Logik&bg_color=0d1117&border_color=30363d&title_color=10b981&icon_color=10b981&text_color=a1a1aa" /></a>
-</p>
-<p align="center">
   <a href="https://github.com/Fafoooo/Fafoooo"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Fafoooo&repo=Fafoooo&bg_color=0d1117&border_color=30363d&title_color=10b981&icon_color=10b981&text_color=a1a1aa" /></a>
+</p>
+<p align="center">
+  <a href="https://github.com/Fafoooo/claude-solve-and-explain"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Fafoooo&repo=claude-solve-and-explain&bg_color=0d1117&border_color=30363d&title_color=10b981&icon_color=10b981&text_color=a1a1aa" /></a>
+  <a href="https://github.com/Fafoooo/aau_26S_Betriebssysteme"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Fafoooo&repo=aau_26S_Betriebssysteme&bg_color=0d1117&border_color=30363d&title_color=10b981&icon_color=10b981&text_color=a1a1aa" /></a>
+</p>
+<p align="center">
+  <a href="https://github.com/Fafoooo/aau_26S_Logik"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Fafoooo&repo=aau_26S_Logik&bg_color=0d1117&border_color=30363d&title_color=10b981&icon_color=10b981&text_color=a1a1aa" /></a>
   <a href="https://github.com/Fafoooo/aau_S26_App_Development"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Fafoooo&repo=aau_S26_App_Development&bg_color=0d1117&border_color=30363d&title_color=10b981&icon_color=10b981&text_color=a1a1aa" /></a>
 </p>
 <p align="center">
