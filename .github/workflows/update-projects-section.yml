@@ -26,6 +26,17 @@ jobs:
             const repo = context.repo.repo;
             const readmePath = 'README.md';
 
+            const start = '<!--START_SECTION:projects-->';
+            const end = '<!--END_SECTION:projects-->';
+
+            const readme = fs.readFileSync(readmePath, 'utf8');
+            const pattern = new RegExp(`${start}[\\s\\S]*?${end}`, 'm');
+
+            if (!pattern.test(readme)) {
+              core.info('Projects section markers were not found in README.md, skipping update.');
+              return;
+            }
+
             const allRepos = await github.paginate(github.rest.repos.listForUser, {
               username: owner,
               type: 'public',
@@ -52,16 +63,6 @@ jobs:
             }
 
             const generated = rows.join('\n');
-            const start = '<!--START_SECTION:projects-->';
-            const end = '<!--END_SECTION:projects-->';
-
-            const readme = fs.readFileSync(readmePath, 'utf8');
-            const pattern = new RegExp(`${start}[\\s\\S]*?${end}`, 'm');
-
-            if (!pattern.test(readme)) {
-              core.setFailed('Projects section markers were not found in README.md');
-              return;
-            }
 
             const next = readme.replace(pattern, `${start}\n${generated}\n${end}`);
 
